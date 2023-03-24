@@ -1,0 +1,27 @@
+site_name: OEM #ime sajta
+site_url: https://oem.com/ #url stranice
+nav:  #uređivanje navigacijske trake i dodavanje sekcija
+    - Početna stranica: index.md
+    - Historija revizija: revizija.md
+    - Uvod: uvod.md
+    - Opšti opis: opsti_opis.md
+    - Funkcionalni zahtjevi:
+      - Pregled svih usluga sistema: fz1.md
+      - Kreiranje događaja: fz2.md
+      - Brisanje događaja: fz3.md
+    - Nefunkcionalni zahtjevi: nefunkcionalni.md
+
+
+theme:
+  name: material
+ # font:
+  #  text: Roboto Mono  različiti fontovi
+extra:
+      social:
+          - icon: fontawesome/brands/facebook
+            link: https://facebook.com/github
+          - icon: fontawesome/brands/linkedin
+            link: https://twitter.com/linked
+plugins:  #export u pdf
+  - search
+  - print-site

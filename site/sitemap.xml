@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://oem.com/</loc>
+         <lastmod>2022-12-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://oem.com/dokumentacija/</loc>
+         <lastmod>2022-12-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://oem.com/fz1/</loc>
+         <lastmod>2022-12-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://oem.com/fz2/</loc>
+         <lastmod>2022-12-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://oem.com/fz3/</loc>
+         <lastmod>2022-12-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://oem.com/revizija/</loc>
+         <lastmod>2022-12-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
